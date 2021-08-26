@@ -1,0 +1,10 @@
+C:\Users\shawn\source\repos\Vaccine\Vaccine\bin\Debug\Vaccine.exe.config
+C:\Users\shawn\source\repos\Vaccine\Vaccine\bin\Debug\Vaccine.exe
+C:\Users\shawn\source\repos\Vaccine\Vaccine\bin\Debug\Vaccine.pdb
+C:\Users\shawn\source\repos\Vaccine\Vaccine\obj\Debug\Vaccine.csprojAssemblyReference.cache
+C:\Users\shawn\source\repos\Vaccine\Vaccine\obj\Debug\Vaccine.Form1.resources
+C:\Users\shawn\source\repos\Vaccine\Vaccine\obj\Debug\Vaccine.Properties.Resources.resources
+C:\Users\shawn\source\repos\Vaccine\Vaccine\obj\Debug\Vaccine.csproj.GenerateResource.cache
+C:\Users\shawn\source\repos\Vaccine\Vaccine\obj\Debug\Vaccine.csproj.CoreCompileInputs.cache
+C:\Users\shawn\source\repos\Vaccine\Vaccine\obj\Debug\Vaccine.exe
+C:\Users\shawn\source\repos\Vaccine\Vaccine\obj\Debug\Vaccine.pdb
